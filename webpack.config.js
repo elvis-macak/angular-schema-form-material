@@ -25,7 +25,6 @@ module.exports = {
   externals: {
     'angular': 'var angular',
     'tv4': 'var tv4',
-    'objectpath': 'var objectpath',
   },
   plugins: [
     new webpack.BannerPlugin(
