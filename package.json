@@ -1,6 +1,5 @@
 {
   "name": "angular-schema-form-material",
-  "version": "1.0.0-alpha.1",
   "description": "Angular Material decorator for Angular Schema Form",
   "main": "material-decorator.js",
   "scripts": {
